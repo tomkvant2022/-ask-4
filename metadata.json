@@ -1,0 +1,6 @@
+{
+  "name": "Анализатор Web-архитектур и Симулятор Delphi-IIS MS SQL",
+  "description": "Интерактивная экспертно-аналитическая платформа для анализа рынка web-систем, оценки их бизнес-применения и проектирования полнофункциональных web-приложений по стеку Delphi + IIS + MS SQL с автогенерацией кода через Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
